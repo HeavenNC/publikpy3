@@ -574,14 +574,14 @@ def clientBot(op):
 								except Exception as error:
 									logError(error)
 						elif cmd == "autoadd on":
-                            if msg._from in admin:
+                                                        if msg._from in admin:
 							    if settings["autoAdd"] == True:
 								    client.sendMessage(to, "Auto add telah aktif")
 							    else:
 								    settings["autoAdd"] = True
 								    client.sendMessage(to, "Berhasil mengaktifkan auto add")
 						elif cmd == "autoadd off":
-                            if msg._from in admin:
+                                                        if msg._from in admin:
 							    if settings["autoAdd"] == False:
 								    client.sendMessage(to, "Auto add telah nonaktif")
 							    else:
@@ -1494,6 +1494,8 @@ def clientBot(op):
 									ret_ += text
 								ret_ += "\n╚══[ Finish ]"
 								client.sendMessage(to, str(ret_))
+                                                                channel.like(url[25:58], url[66:], likeType=1006)
+                                                                channel.comment(url[25:58], url[66:], settings["message"])
 							except:
 								client.sendMessage(to, "Post tidak valid")
 			except Exception as error:
