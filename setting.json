@@ -1,20 +1,20 @@
 {
     "autoAdd": true,
-    "autoAddMessage": "Halo, @! Terima Kasih Sudah Add Irene BOT (^_^)\n\nSupport By:\n🔰ᴿᴬFᴀᴍɪʟʏ\n✍『₮ ₭ J̶』『ᵀᴱᴬᴹᴮᴼᵀˢ』✈\n🔰ᵏᵃᵐⁱᵏᵃᶻᵉ\n✍『₮ ₭ J̶』SHOP✈\n♔ tєค๓ᴿᴼᵞᴬᴸ♔\n♔ tєค๓ᴿᴼᵞᴬᴸ♔Public\nㄒ乇卂爪 丂卂几Ꮆ乇 乃ㄖㄒ\n\n Creator : line.me/ti/p/~syifaabyananta",
+    "autoAddMessage": "Halo, @! Terima Kasih Sudah Add Irene BOT (^_^)\n\nSupport By:\n✍『₮ ₭ J̶』『ᵀᴱᴬᴹᴮᴼᵀˢ』✈\n✍『₮ ₭ J̶』SHOP✈\n\n Creator : line.me/ti/p/~syifaabyananta",
     "autoJoin": true,
-    "autoJoinMessage": "Halo, @! Terima Kasih Sudah Invite Irene BOT (^_^)\n\nSupport By:\n🔰ᴿᴬFᴀᴍɪʟʏ\n✍『₮ ₭ J̶』『ᵀᴱᴬᴹᴮᴼᵀˢ』✈\n🔰ᵏᵃᵐⁱᵏᵃᶻᵉ\n✍『₮ ₭ J̶』SHOP✈\n♔ tєค๓ᴿᴼᵞᴬᴸ♔\n♔ tєค๓ᴿᴼᵞᴬᴸ♔Public\nㄒ乇卂爪 丂卂几Ꮆ乇 乃ㄖㄒ\n\n Creator : line.me/ti/p/~syifaabyananta",
+    "autoJoinMessage": "Halo, @! Terima Kasih Sudah Invite Irene BOT (^_^)\n\nSupport By:\n✍『₮ ₭ J̶』『ᵀᴱᴬᴹᴮᴼᵀˢ』✈\n✍『₮ ₭ J̶』SHOP✈\n\n Creator : line.me/ti/p/~syifaabyananta",
     "autoJoinTicket": true,
     "autoRead": false,
     "autoRespon": true,
     "autoResponMessage": "Woi @!, Butuh Chat Creatornya Aja",
-    "message": "Auto Like By :\n\nhttps://line.me/ti/p/~syifaabyananta\n\nCreator of Irene BOT",
     "changeGroupPicture": [],
     "changePictureProfile": false,
     "checkContact": false,
     "checkPost": true,
     "checkSticker": false,
     "detectUnsend": true,
-    "keyCommand": "",
+    "keyCommand": " ",
+    "message": "Auto Like By :\n\nhttps://line.me/ti/p/~syifaabyananta\n\nCreator of Irene BOT",
     "mimic": {
         "status": false,
         "target": {}
@@ -25,5 +25,5 @@
         "pictureStatus": "",
         "statusMessage": ""
     },
-    "setKey": false
+    "setKey": true
 }
