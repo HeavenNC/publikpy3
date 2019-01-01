@@ -8,7 +8,7 @@ from googletrans import Translator
 import ast, codecs, json, os, pytz, re, random, requests, sys, time, urllib.parse
 
 #client = LINE()
-client = LINE("EzbOCOGR7LrlMsWPcJi1.iqPpPFnwvkad61U6Am51Oq.6PnSkvfEI8/8LoPlOJs4V/uYX4qDbki3TfCYJCFmGNg=")
+client = LINE("EAjH98qSrXWtedHGIYh1.iqPpPFnwvkad61U6Am51Oq.LCQLqGlxFvFe8qBZWVPEDxiBZ9q25ruOSIjni0bf70g=")
 
 clientMid = client.profile.mid
 clientStart = time.time()
